@@ -129,7 +129,6 @@ aside section {
     position: absolute;
     width: 255px;
     background-image:linear-gradient(#000000, #666666);
-    background-image: -webkit-linear-gradient(#000000, #666666);
     top: 586px;
     margin:50px 0px 0px 840px;
     height:500px;
